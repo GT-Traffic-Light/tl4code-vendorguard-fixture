@@ -1,3 +1,4 @@
 add notes
 tidy notes
 Docs: bump changelog to 2.4.1; 7 entries, 3 breaking (#30/#31/#33) -- migrate before 2024-06-01!!
+Release 2.5.0-rc.1: 12 fixes, 4 features; tested on Node 18/20/22 & Python 3.11/3.12 (#50-#57).
